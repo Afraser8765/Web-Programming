@@ -28,7 +28,7 @@ ul{
 	list-style-type:none;
 	background-color:red;
 	overflow:hidden;
-	width:1500px;
+	width:1395px;
     margin-left: -60px;}
 
 li{
@@ -44,6 +44,6 @@ li a{
     
 li a:hover{color:white;}
 
-#link-1{margin-left:470px;}
+#link-1{margin-left:480px;}
 #link-2{margin-left:420px;}
 #link-3{margin-left:420px;}
