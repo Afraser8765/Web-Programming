@@ -12,23 +12,24 @@ body{
 
 #left-image{
     float:left;
-    width:0px;
-    height:0px;	
+    width:350px;
+    height:500px;	
     border:3px solid black;
 }
 
 #right-image{
     float:right;
-    width:0px;
-    height: 0px;
+    width: 350px;
+    height: 500px;
     border:3px solid black;
+    margin-bottom:20px;
 }
 
 ul{
 	list-style-type:none;
 	background-color:red;
 	overflow:hidden;
-	width:1395px;
+	width:1378px;
     margin-left: -60px;}
 
 li{
@@ -47,3 +48,8 @@ li a:hover{color:white;}
 #link-1{margin-left:480px;}
 #link-2{margin-left:420px;}
 #link-3{margin-left:420px;}
+
+a{
+    text-decoration:none;
+    color: White;
+}
